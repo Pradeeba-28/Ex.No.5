@@ -1,5 +1,6 @@
 # EXPERIMENT 5: Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
-
+# DATE : 26-11-2026
+# REG NO : 212225040306
 ## 1. AIM
 To compare different prompting techniques and evaluate their effectiveness in solving real-world engineering problems using ChatGPT.
 
